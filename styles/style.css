@@ -176,5 +176,22 @@ main h1 {
     border: 2px solid #E5E7EB;
 }
 
+/* footer */
+
+footer {
+    display: flex;
+    flex: 1 1 auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937;
+    height: 150px;
+    color: #E5E7EB;
+}
+
+footer ul {
+    display: flex;
+    gap: 8px;
+    list-style-type: none;
+}
 
 
